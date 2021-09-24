@@ -1,18 +1,32 @@
-# sequence-workshop
+# Data structures workshop
 A thorough introduction into `list` and `tuple` in Python 3.
 
->***Author:*** Zhaoxuan "Tony" Wu, Head of _Science_ (20/21)
+>***Author:*** Philip Wilkinson Head of _Science_ (21/22)
+
+>***Contact:*** philip.wilkinson.19@ucl.ac.uk
 
 >***Difficulty***: 2/5 ~ 3/5
 
->***Prerequisite***: `PY01` or basic Python syntax. Experience with `list` and `tuple` is desirable, but we will take a closer look into the details.
+>***Prerequisite***: `PY01` or basic Python syntax. Experience with `list`, `tuple`, `set` and `dictionary` is desirable, but we will take a closer look into the details.
 
 ## Description
 
-In this workshop, we will be introduced the data structure `sequence` in Python and two examples: `list` and `tuple`. We will take a closer look into the methods provided, attributes, the APIs, the usage and some implementation details into these data structures, which should provide you with a thorough introduction to `list` and `tuple`. Even if you are familiar with the data structures, this workshop might be able to give you some insightful explanation of why things are done in some certain ways.
+In this workshop will will be introduced to the four main data structures in python of `list`, `tuple`, `set` and `dictionary`. We will take a closer at what makes these data structures unique, how we can use them and their unique methods and functions, covering a thorough introduction of each data structure. Even if you are familiar with the data stcutures, this workshop might be able to give you some insight into new methods or techniques and why certain data structures may be used in certain situations.
+
 
 ## Software Prerequisite
 - Python 3
-- Anaconda/Jupyter Notebook *(optional)*
+- Anaconda
+- Jupyter Notebook 
 
+## Structure
 
+```shell
+.
+├── PY02 - Data Structures
+│   ├── README.md
+│   ├── workshop.ipynb
+│   ├── problem.ipynb
+│   ├── answer.ipynb
+
+```
